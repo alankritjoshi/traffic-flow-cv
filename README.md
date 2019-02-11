@@ -31,3 +31,8 @@ Please check back later when I have committed enough stuff to care about.
 This is what it looks like now
 
 ![Alt text](/assets/images/1.png?raw=true "Progress Screenshot")
+
+## Resources
+1. https://p5js.org/examples/
+2. https://mappa.js.org/docs/api-mappa.html
+3. https://stackoverflow.com/questions/20322823/how-to-get-all-roads-around-a-given-location-in-openstreetmap
