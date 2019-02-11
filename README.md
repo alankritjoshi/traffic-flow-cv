@@ -19,7 +19,8 @@ Please check back later when I have committed enough stuff to care about.
 - Option 2:
   - Open project in [VS Code](https://code.visualstudio.com/)
   - Use [VS Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  - OPTIONAL - [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+  - [OPTIONAL] [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+  - [OPTIONAL] [p5.js VS Code Snippets](https://marketplace.visualstudio.com/items?itemName=acidic9.p5js-snippets)
 
 ## TODOs
 1. Create a visual mapping tool **(current)**
