@@ -1,19 +1,26 @@
 # traffic-flow-cv
 My attempts to analyze, debug and provide scoped solutions to solve Chandigarh's traffic problems
 
-## WIP
-**Progress: 5%**
+- [traffic-flow-cv](#traffic-flow-cv)
+  - [Progress](#progress)
+  - [Dev Setup](#dev-setup)
+  - [TODOs](#todos)
+  - [Progress Screenshot](#progress-screenshot)
+  - [Resources](#resources)
+
+## Progress
+**WIP: 5%**
 
 Please check back later when I have committed enough stuff to care about.
 
-## Development Setup
+## Dev Setup
 - Option 1:
   - `python -m SimpleHTTPServer 5500`
 - Option 2:
   - Open project in VS Code
   - Use VS Live Share
 
-## Todos
+## TODOs
 1. Create a visual mapping tool **(current)**
    1. ~~Learn and create a p5.js canvas with map overlay~~
    2. Learn to draw shapes and persist according to map zoom levels/tiles of only Chandigarh
