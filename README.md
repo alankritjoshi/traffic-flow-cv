@@ -1,5 +1,5 @@
 # traffic-flow-cv
-My attempts to analyze, debug and provide scoped solutions to solve Chandigarh's traffic problems
+My attempts to analyze, debug and provide scoped solutions to solve Chandigarh's traffic problems. I am using p5.js [wut?](https://www.youtube.com/watch?v=8j0UDiN7my4) for visualizing the traffic, plan to use a yet undecided Computer Vision solution to get real-time traffic (or at least simulate), create some scenarios of how traffic should be managed (including existing implementation by Chandigarh UT administration) and propose solutions to make traffic flow intelligent (e.g., making traffic lights intelligent and not have fixed countdowns)
 
 - [traffic-flow-cv](#traffic-flow-cv)
   - [Progress](#progress)
