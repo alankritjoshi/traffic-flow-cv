@@ -17,8 +17,8 @@ Please check back later when I have committed enough stuff to care about.
 - Option 1:
   - `python -m SimpleHTTPServer 5500`
 - Option 2:
-  - Open project in VS Code
-  - Use VS Live Share
+  - Open project in [VS Code](https://code.visualstudio.com/)
+  - Use [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ## TODOs
 1. Create a visual mapping tool **(current)**
