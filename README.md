@@ -10,10 +10,10 @@
 
 ## Description
 ### What?
-This my attempt to analyze, debug and provide scoped solutions to solve Chandigarh's traffic problems. 
+This is my attempt to analyze, debug and provide scoped solutions to solve Chandigarh's traffic problems. 
 
 ### Why?
-In December 2018 I went back to my home city of Chandigarh, which has perhaps the most consistent grid layout in the country. Yet I noticed a sharp increase in traffic congestion at traffic lights and intersections. Inspite of having an unrestricted traffic flow inbetween the lights, the existence of congestion and slowdowns made me think about how I can maybe fix this with a proposal (real-life PR?) to the city adminstration with least amount of infrastructure and organizational changes.
+In December 2018 I went back to my home city of Chandigarh, which has perhaps the most consistent grid layout in the country. Yet I noticed a sharp increase in traffic congestion at traffic lights and intersections. Inspite of having an unrestricted traffic flow inbetween the lights, the existence of congestion and slowdowns made me think about how I can fix this with a proposal (real-life PR?) to the city adminstration with least amount of infrastructure and organizational changes.
 
 ### How?
 I am using p5.js ([wut?](https://www.youtube.com/watch?v=8j0UDiN7my4)) for visualizing the traffic, plan to use a yet undecided Computer Vision solution to get real-time traffic (or at least simulate), create some scenarios of how traffic should be managed (including existing implementation by Chandigarh UT administration) and propose solutions to make traffic flow intelligent (e.g., making traffic lights intelligent and not have fixed countdowns)
