@@ -25,3 +25,9 @@ Please check back later when I have committed enough stuff to care about.
 4. Use the mapping tool to create different traffic systems including the current one in Chandigarh
 5. Propose solutions for each scenario
 6. Draw comparisons and prepare economic and infrastructure feasibility report for Chandigarh UT administration
+
+## Progress Screenshot
+
+This is what it looks like now
+
+![Alt text](/assets/images/1.png?raw=true "Progress Screenshot")
