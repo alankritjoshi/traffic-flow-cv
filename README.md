@@ -24,4 +24,4 @@ Please check back later when I have committed enough stuff to care about.
 3. Maybe try to create a simple version of the CV tool
 4. Use the mapping tool to create different traffic systems including the current one in Chandigarh
 5. Propose solutions for each scenario
-6. Draw comparisons and prepare economic and infrastructure feasibility report for Chandigarh UT government
+6. Draw comparisons and prepare economic and infrastructure feasibility report for Chandigarh UT administration
