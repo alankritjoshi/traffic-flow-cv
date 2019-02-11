@@ -21,6 +21,7 @@ Please check back later when I have committed enough stuff to care about.
    4. Simple on-screen toolbar for annotations
    5. Maybe automate the annotations based on road coordinates (how to get these coordinates for Chandigarh?)
 2. Simulate traffic using traffic data source from somewhere and assume there is a CV system in real-life to get the count of cars at each traffic light
-3. Use the mapping tool to create different traffic systems including the current one in Chandigarh
-4. Propose solutions for each scenario
-5. Draw comparisons and prepare economic and infrastructure feasibility report for Chandigarh UT government
+3. Maybe try to create a simple version of the CV tool
+4. Use the mapping tool to create different traffic systems including the current one in Chandigarh
+5. Propose solutions for each scenario
+6. Draw comparisons and prepare economic and infrastructure feasibility report for Chandigarh UT government
