@@ -51,4 +51,5 @@ function mouseClicked() {
 function drawRoad() {
   clear();
   const chandigarh = myMap.latLngToPixel(30.743732, 76.732676);
+  // there's also `myMap.pixelToLatLng`. nice!
 }
